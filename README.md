@@ -1,3 +1,6 @@
+# Work in progress
+There are still many things to do.
+
 # SHIT Bot – Shopee Hyper Instant Trigger Bot
 
 **Tagline:** "Deals drop. SHIT hits. Items gone." 🦶💥
