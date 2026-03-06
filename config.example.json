@@ -1,0 +1,11 @@
+{
+  "product_url": "https://shopee.co.th/product-url-here",
+  "worker_count": 1,
+  "headless": true,
+  "debug": false,
+  "timeout_seconds": 3600,
+  "selectors": {
+    "buy_button": ".buy-now-button",
+    "checkout_button": ".checkout-button"
+  }
+}

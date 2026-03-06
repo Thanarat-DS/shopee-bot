@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SPC_EC",
+    "value": "your-spc-ec-cookie-value",
+    "domain": ".shopee.co.th",
+    "path": "/",
+    "expires": 2000000000,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "SPC_ST",
+    "value": "your-spc-st-cookie-value",
+    "domain": ".shopee.co.th",
+    "path": "/",
+    "expires": 2000000000,
+    "httpOnly": true,
+    "secure": true
+  }
+]
